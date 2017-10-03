@@ -1,0 +1,27 @@
+{
+  "name": "zimmertlv.info",
+  "version": "1.0.0",
+  "description": "zimmer tlv site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/5shekel/zimmertlv.info.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/5shekel/zimmertlv.info/issues"
+  },
+  "homepage": "https://github.com/5shekel/zimmertlv.info#readme",
+  "dependencies": {
+    "cloudcmd": "^8.0.1",
+    "criton": "^1.0.0",
+    "express": "^4.16.1",
+    "socket.io": "^2.0.3"
+  },
+  "devDependencies": {}
+}
